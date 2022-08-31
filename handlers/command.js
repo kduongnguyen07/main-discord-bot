@@ -17,4 +17,5 @@ module.exports= (client) => {
         }
     });
     console.log(table.toString());
+    console.log('Welcome to Khánh a bot bt LCS Dwong #2027');
 }
